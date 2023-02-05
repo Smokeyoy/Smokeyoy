@@ -1,10 +1,5 @@
 # Smokeyoy
 
-### About Me
-I am a Freshman (14) and I live in the Washington Metro Area. I can code well in Python and a good bit of C++. 
-
-# Smokeyoy
-
 ## About Me
 
 I am a Freshman in High School (14) and I live in the Washington Metro Area. I can code well in Python and a good bit of C++. I am a fast learner and I pick up new technologies and frameworks quickly. I am also on my HS Robotics team and we will be competing in the [FIRST Robotics Competition](https://www.firstinspires.org/) this winter. We have an Organizational Repository on here where I maintain and develop our website. We are currently using TypeScript, and React and hosting on Vercel.
