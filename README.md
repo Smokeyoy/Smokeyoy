@@ -31,3 +31,19 @@ const PROFILES = {
   Blog  : "https://dev.to/smokeyoy"
 }
 ```
+### More:
+[Carrd](https://smokeyoy.carrd.co/),
+[Spotify](https://open.spotify.com/user/qmnpdqzveezah0gtvs0spkzln?si=b94c9d6356c64335),
+[Replit](https://replit.com/@smokeyoy),
+[Reddit](https://www.reddit.com/user/SmoKeyOy),
+[TikTok](https://www.tiktok.com/@smokeyoy),
+[Steam](https://steamcommunity.com/id/smokeyoy/)
+[Dev](https://dev.to/smokeyoy)
+\
+\
+<sub>Inactive:
+\
+[YouTube](https://www.youtube.com/channel/UCFRoVX6XGE4p_mBg_ZJ3kIQ?view_as=subscriber),
+[Instagram](https://www.instagram.com/smokeyoy/),
+[Twitter](https://twitter.com/smokeyoy),
+[Twitch](https://www.twitch.tv/smokeyoy)
