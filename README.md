@@ -37,7 +37,7 @@ const PROFILES = {
 [Replit](https://replit.com/@smokeyoy),
 [Reddit](https://www.reddit.com/user/SmoKeyOy),
 [TikTok](https://www.tiktok.com/@smokeyoy),
-[Steam](https://steamcommunity.com/id/smokeyoy/)
+[Steam](https://steamcommunity.com/id/smokeyoy/),
 [Dev](https://dev.to/smokeyoy)
 \
 \
