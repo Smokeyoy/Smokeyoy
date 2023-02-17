@@ -19,14 +19,7 @@ I am active daily on Discord, and I blog on Dev.to about new technologies and la
 
 ```js
 const PROFILES = {
-  Discord : {
-    username : Abby!#6266,
-    servers_i_admin : {
-      HDG : "https://discord.com/invite/mWepccFCQh",
-      BRI : "https://discord.com/invite/SfT2em4saP".
-      OTS : "https://discord.com/invite/SmGQGdVj9c"
-    }
-  },
+  Discord : "Abby!#6266",
   Email : "smokeyoyy@gmail.com",
   Blog  : "https://dev.to/smokeyoy"
 }
